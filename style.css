@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+.outfit-normal {
+  font-family: "Outfit", serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+.outfit-bold {
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .outfit-light {
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+  }
+*,
+body{
+    font-family: 'Outfit';
+}
+body{
+    background-color: #D5E1EF;
+}
